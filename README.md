@@ -28,4 +28,4 @@ If you use this work, please cite:
 > MOHAMED CHERIF Y. DOI: 10.5281/zenodo.XXXXXXX
 
 ## License
-MIT
+Creative Commons
